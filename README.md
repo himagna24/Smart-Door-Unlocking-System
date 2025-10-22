@@ -27,17 +27,6 @@ The system integrates hardware-based authentication (via sensors) with a Java-ba
 
 ---
 
-## 🖥️ Project Architecture
-Smart-Door-Unlocking-System/
-├── Arduino/
-│   └── SmartDoor.ino
-│
-├── JavaApp/
-│   ├── src/
-│   │   └── SmartDoorApp.java
-│   ├── lib/
-│   │   └── jSerialComm.jar
-
 ## 🚀 How to Run  
 
 ### 🧩 1️⃣ Hardware Setup  
